@@ -1,4 +1,1 @@
 clean
-throw
-play
-run
